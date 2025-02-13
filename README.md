@@ -1,7 +1,5 @@
-## ✿ Bem-vindo ao meu GitHub ✿
-
 <div>
-  <img align="center" src="https://xyz.crd.co/assets/images/gallery25/cf4eaf15.gif?v=de6feabd"> ‎  Eu sou a Karen, estudo no CEFET/RJ e estou realizando o Curso Técnico em Informática. <a href="https://kakleinm.github.io/">Acesse meu website!</a>
+  <img align="center" src="https://xyz.crd.co/assets/images/gallery25/cf4eaf15.gif?v=de6feabd"> <a href="https://kakleinm.github.io/">Acesse meu website!</a>
 </div>
 <br>
 <div>
