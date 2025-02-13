@@ -1,5 +1,5 @@
 <div>
-  <img align="center" src="https://xyz.crd.co/assets/images/gallery25/cf4eaf15.gif?v=de6feabd"> perfil dedicado aos meus projetos (pessoais e do curso) <a href="https://kakleinm.github.io/">acesse meu website!</a>
+  perfil dedicado aos meus projetos (pessoais e do curso) <a href="https://kakleinm.github.io/">acesse meu website!</a>
 </div>
 <br>
 <div>
