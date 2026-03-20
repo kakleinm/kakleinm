@@ -1,7 +1,6 @@
 ## oi! eu sou a karen 🌟
 ### seja bem-vindo ao meu perfil!
   realizo curso técnico em informática integrado ao ensino médio. este perfil é dedicado aos meus projetos (pessoais e do curso)
-### linguagens
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
